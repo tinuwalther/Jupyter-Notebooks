@@ -1,5 +1,19 @@
 # Jupyter-Notebooks
 
+I use Azure Data Studion and Anaconda for Jupyter-Notebooks.
+
+## Offline Installation
+
+Download and install [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) and [Anaconda](https://docs.anaconda.com/anaconda/install/) or an other Python distribution.
+
+Download and install Python Packages from phython Package Index:
+
+- pip install ntlm-auth-1.5.0.tar.gz
+- pip install requests_ntlm-1.1.0.rar.gz
+- pip install pywinrm2-0.0.0.tar.gz
+- pip install jupyter-1.0.0.tar.gz
+- pip install powershell_kernel-0.1.4.tar.gz
+
 ## Python Jupyter Notebooks
 
 ### Test-Netconnection.ipynb

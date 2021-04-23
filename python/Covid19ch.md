@@ -1,5 +1,7 @@
 # Covid19 facts and figures der Schweiz
 
+Mit meinem Newsreader Notebook, geschrieben in Python, suche ich nach den aktuellen Covid-Zahlen vom BAG und stelle diese grafisch dar. 
+
 ## Übersicht
 
 ![Overview](../images/covid-overview.png)

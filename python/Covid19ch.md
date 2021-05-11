@@ -18,7 +18,7 @@ Der Tagesdurchschnitt basiert auf den Daten aus meiner MongoDB, welche ich am 23
 
 ![Overview](../images/covid-dayli-newcases.png)
 
-Die Pieks in der Grafik stammen Nachmeldungen aus dem Zeitraum November 2020 bis März 2021 oder von den Wochenenden, das BAG veröffentlicht Daten nur von Montag bis Freitag.
+Die Pieks in der Grafik stammen von Nachmeldungen aus dem Zeitraum November 2020 bis März 2021 oder von den Wochenenden, das BAG veröffentlicht Daten nur von Montag bis Freitag.
 
 ![Overview](../images/covid-dayli-host-dead.png)
 

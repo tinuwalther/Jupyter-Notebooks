@@ -1,0 +1,22 @@
+// MongoDB Playground
+
+// Connent to the database
+use('tinu');
+
+// Add new document in a collection
+db.inventory.insertOne(
+    {
+        "ID"            : "77867267-ca7f-4713-8b09-8718959bab33",
+        "RunTime"       : "2021-06-05T16:25:58.9", 
+        "DeviceType"    : "Notebook",
+        "DeviceName"    : "ThinkPad",
+        "Physical cores": 4,
+        "MemoryGB"      : 16,
+        "DiskspaceGB"   : 512,
+        "PurchaseDate"  : "2021-06-05T16:25:58.9",
+        "Price"         : 1234,
+        "Payment"       : "Mastercard",
+        "Warranty"      : "3+1",
+        "Link"          : "https://tinuwalther.github.io"
+    }
+);

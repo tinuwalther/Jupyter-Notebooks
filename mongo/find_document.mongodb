@@ -1,0 +1,13 @@
+// MongoDB Playground Search Documents
+
+// Select the database to use.
+use('tinu');
+
+// Find all documents
+//db.inventory.find()
+
+// Search all documents for
+
+db.inventory.find(
+  { "DeviceType" : "Convertible" },
+)
